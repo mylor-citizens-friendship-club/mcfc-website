@@ -28,7 +28,7 @@ nav a {
 }
 
 .home__title-panel {
-    background-image: url('../img/hall1.jpg');
+    background-image: url('../img/hall1-small.jpg');
     background-size: cover;
     color: white;
     text-align: center;
@@ -92,19 +92,19 @@ nav a {
 }
 
 .home__tile-item.facilities {
-    background-image: url('../img/hall-inside.jpg');
+    background-image: url('../img/hall-inside-thumb.jpg');
     background-position: 50% 45%;
 }
 .home__tile-item.bookings {
-    background-image: url('../img/foyer1.jpg');
+    background-image: url('../img/foyer1-thumb.jpg');
     background-position: 40% 10%;
 }
 .home__tile-item.events {
-    background-image: url('../img/hall2.jpg');
+    background-image: url('../img/hall2-thumb.jpg');
     background-position: 40% 10%;
 }
 .home__tile-item.gallery {
-    background-image: url('../img/hall1.jpg');
+    background-image: url('../img/hall1-thumb.jpg');
     background-position: 50% 50%;
 }
 
@@ -166,8 +166,8 @@ footer p {
 }
 
 .page-title-panel.bookings {
-    background-image: url('../img/hall2.jpg');
-    background-position: center 15%;
+    background-image: url('../img/foyer1.jpg');
+    background-position: center 44%;
 }
 
 .page-title-panel.events {
