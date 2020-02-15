@@ -63,6 +63,14 @@ nav a {
     text-shadow: 0 0 3px black;
 }
 
+.home__ac-message {
+    font-size: 24px;
+    padding: 0 0 12px 0;
+    text-shadow: 0 0 3px black;
+    font-weight: bold;
+    color: gold;
+}
+
 .home__description {
     max-width: 800px;
     margin:auto;
