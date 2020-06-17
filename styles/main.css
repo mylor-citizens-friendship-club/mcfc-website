@@ -100,7 +100,7 @@ nav a {
 }
 
 .home__tile-item.facilities {
-    background-image: url('../img/hall-inside-thumb.jpg');
+    background-image: url('../img/hall-inside2-thumb.jpg');
     background-position: 50% 45%;
 }
 .home__tile-item.bookings {
@@ -169,8 +169,8 @@ footer p {
 }
 
 .page-title-panel.facilities {
-    background-image: url('../img/hall-inside.jpg');
-    background-position: center 52%;
+    background-image: url('../img/hall-inside3.jpg');
+    background-position: center 62%;
 }
 
 .page-title-panel.bookings {
