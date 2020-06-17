@@ -266,5 +266,6 @@ footer p {
 }
 
 .gallery__list img {
+    width: 960px;
     max-width: 100%;
 }
